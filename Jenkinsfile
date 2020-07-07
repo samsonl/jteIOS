@@ -1,1 +1,1 @@
-uploadFile
+iosUploadFile()
