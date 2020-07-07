@@ -1,1 +1,5 @@
-//
+
+libraries {
+  libcommon
+  libios
+}
